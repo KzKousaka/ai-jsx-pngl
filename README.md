@@ -37,6 +37,6 @@ Illustratorで作成したファイルをレイヤー別にPNGを保存するプ
 
 ![GUI Image](https://github.com/kazu1107/ai-jsx-pngl/blob/master/images/sample-00a.png)  
   
-以下のような画像が生成されます。  
-  
+全てのアートボードを書き出すと以下のような画像が生成されます。  
+
 ![GUI Image](https://github.com/kazu1107/ai-jsx-pngl/blob/master/images/sample-00b.png)  
